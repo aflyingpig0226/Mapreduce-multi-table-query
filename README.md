@@ -1,0 +1,1 @@
+mapreduce多多表查询
